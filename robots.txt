@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-xlkt3g.adminlinkrtp.xyz/sitemap.xml
